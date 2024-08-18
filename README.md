@@ -15,3 +15,5 @@ GAPs384: (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/D
 AigleRN-TRIMM: (https://www.irit.fr/~Sylvie.Chambon/Crack_Detection_Database.html)
 
 ShadowCrack: (lilifan@bit.edu.cn)
+
+![alt text](https://github.com/Omaralmaqtari/Efficient-Multiscale-Transformer/blob/main/Model%20Architecture.png?raw=true)
