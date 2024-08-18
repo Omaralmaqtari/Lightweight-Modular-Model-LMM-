@@ -16,4 +16,6 @@ AigleRN-TRIMM: (https://www.irit.fr/~Sylvie.Chambon/Crack_Detection_Database.htm
 
 ShadowCrack: (lilifan@bit.edu.cn)
 
-![alt text](https://github.com/Omaralmaqtari/Efficient-Multiscale-Transformer/blob/main/Model%20Architecture.png?raw=true)
+![alt text](https://github.com/Omaralmaqtari/Lightweight-Modular-Model/blob/main/Model%20Architecture.png?raw=true)
+
+
