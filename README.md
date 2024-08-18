@@ -18,4 +18,13 @@ ShadowCrack: (lilifan@bit.edu.cn)
 
 ![alt text](https://github.com/Omaralmaqtari/Lightweight-Modular-Model/blob/main/Model%20Architecture.png?raw=true)
 
+## Requirements
+1. python 3.11.7
+2. pytorch 2.2.0
+3. opencv 4.9.0
+4. numpy 1.26.4
+5. scipy 1.11.4
+6. matplotlib 3.8.0
 
+## Cite this article
+O. Al-maqtari, B. Peng, Z. Al-Huda, A. Al-Malahi and N. Maqtary, "Lightweight Yet Effective: A Modular Approach to Crack Segmentation," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2024.3405495.
